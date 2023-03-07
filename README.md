@@ -1,1 +1,1 @@
-# react-sneakers
+# Проект: React-Sneakers
